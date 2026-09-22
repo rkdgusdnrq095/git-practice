@@ -1,1 +1,1 @@
-git --version
+print("안녕")
